@@ -1,7 +1,7 @@
-# shopper-technical-test
+# Base 64 Lens
 ---
 
-The Shopper Technical Test is a back-end service developed to manage individualized readings of water and gas consumption. The service uses AI to obtain measurements through a photo of a meter. It includes endpoints for uploading images, confirming readings, and correcting read values. The project integrates with the Google Gemini API to process images and returns detailed information about the measurements.
+This application is a back-end service developed to manage individualized readings of water and gas consumption. The service uses AI to obtain measurements through a photo of a meter. It includes endpoints for uploading images, confirming readings, and correcting read values. The project integrates with the Google Gemini API to process images and returns detailed information about the measurements.
 
 ---
 
